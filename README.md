@@ -7,3 +7,6 @@ Predicting sales is one of the most important business problems for any retail e
 ## Client 
 The client in thiscaseisaUK-basedandregisterednon-storeonlineretail.The company mainly sells unique all-occasion gifts. Many customers of the company are            wholesalers. This modelcanbereplicatedtoanysimilaronlineorphysicalstoresellingany kind of product. 
  
+ ## Datasets
+ The dataset has been taken from UCI Machine Learning Repository 
+ at:  https://archive.ics.uci.edu/ml/datasets/Online%20Retail 
